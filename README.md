@@ -46,7 +46,7 @@ Create a resource group and Virtual Machine
 <img src="https://i.imgur.com/wlKglKG.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-While creating a virtual machine select your region inwhich you want your virtual machine to be ceated, in image select the windows 10 virtual machine with 2-4 virtual CPUs. Write  user name and pasword and remember it becuse it will use in remote desktop in upcoming step
+While creating a virtual machine select your region in which you want your virtual machine to be created, in image select the windows 10 virtual machine with 2-4 virtual CPUs. Write  user name and pasword and remember it becuse it will use to connect remote desktop in upcoming step.
 While creating a virtual machine, allow it to create a new virtual network (Vnet)
 </p>
 <br />
@@ -70,7 +70,7 @@ You are in side of your virtual machine, now we have to Install and enable Inter
 <img src="https://i.imgur.com/TXymQtS.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is the Installation File
+This is the Installation File.
 </p>
 <br />
 
@@ -200,6 +200,7 @@ Enable: php_intl.dll
   
 Enable: php_opcache.dll
   
+  
 Refresh the osTicket site in your browser and observe the changes.
 
 </p>
@@ -240,7 +241,7 @@ Name Helpdesk (Kanza’s Help Desk)
   
 Default email (receives email from customers)kanza@helper.com
   
-Set user name and password and rember it to login in future. In this case user name is Kanza.
+Set user name and password and remember it to login in future lab. In this case user name is Kanza.
 
   
 </p>
@@ -250,7 +251,7 @@ Set user name and password and rember it to login in future. In this case user n
 <img src="https://i.imgur.com/7dmR4Sm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Download and Install the HeidiSQL from the Installation folder
+Download and Install the HeidiSQL from the Installation folder.
 </p>
 <br />
 
@@ -288,7 +289,7 @@ Go to the osTicket page and type root in MYSQL username, Password1 in MYSQL Pass
 </p>
 <p>
 
-Congratulations, Your setup is complted successfully
+Congratulations, Your setup is completed successfully.
   
 </p>
 <br />
