@@ -334,4 +334,3 @@ Congratulation, You are inside of your osTicket setup.
 </p>
 <br />
 
-
